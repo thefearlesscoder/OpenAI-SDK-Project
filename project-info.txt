@@ -1,0 +1,12 @@
+What is zod ?
+- what is the meaing of this -> "dev": "node --watch index.js"
+
+
+- Agent = llm + tools + instructions  + gaurdrails + tracing + multiple agent orch
+
+- run -> function to run the agent -> it contains the loop to run the agent
+- run(agentName, '<query>');
+
+- tools -> perform actual action
+
+
