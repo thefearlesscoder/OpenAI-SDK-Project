@@ -9,4 +9,9 @@ What is zod ?
 
 - tools -> perform actual action
 
+- agent must be specific
+
+- handoff transfer the control
+
+
 
