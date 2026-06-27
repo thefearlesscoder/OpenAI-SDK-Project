@@ -14,4 +14,6 @@ What is zod ?
 - handoff transfer the control
 
 
+convesatio ID = conv_6a3eac38e584819689c9ccd2ef40e98d0bd4633429a310cb
+
 
